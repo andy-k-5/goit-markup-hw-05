@@ -92,10 +92,6 @@ body {
   line-height: 1.17;
 }
 
-.accent-color {
-  color: #4d5ae5;
-}
-
 .logo {
   text-transform: uppercase;
   margin-right: 76px;
@@ -858,6 +854,10 @@ body {
   + .feedback-form-checkbox-label
   .feedback-form-own-checkbox-icon {
   opacity: 1;
+}
+
+.privacy-color {
+  color: #4d5ae5;
 }
 
 .feedback-form-submit-btn {
